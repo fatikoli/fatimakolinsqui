@@ -1,5 +1,5 @@
 # fatimakolinsqui
-Hi!  I'm Fátima Kolinsqui 
+Hi! 🤝 I'm Fátima Kolinsqui 
 <div align="center">
   <a href="https://github.com/fatikoli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatikoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
