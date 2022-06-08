@@ -11,7 +11,7 @@ Hi! 🤝 I'm Fátima Kolinsqui
   <img align="center" alt="Fafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
-  <img align="right" alt="Fafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/45185905/172729902-02141859-c71e-4cb9-9ad5-37fe842d3f20.png">
+  <img align="right" alt="Fafa" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/45185905/172729902-02141859-c71e-4cb9-9ad5-37fe842d3f20.png">
 </div>
   
   ##
