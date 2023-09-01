@@ -1,7 +1,7 @@
 # fatimakolinsqui
 Hi! 🤝 I'm Fátima Kolinsqui 
 
-🇧🇷 Sou publicitária, nasci no interior de São Paulo, morei 15 anos em Florianópolis e em 2020 me mudei para  São Paulo capital. Trabalhei com diversas áreas do marketing digital por 13 anos e decidi pivotar minha carreira para Front-end que estou estudando no momento a procura de um estágio.
+🇧🇷 Sou publicitária, nasci no interior de São Paulo, morei 15 anos em Florianópolis e em 2020 me mudei para  São Paulo capital. Trabalhei com diversas áreas do marketing digital por 13 anos e decidi pivotar minha carreira para Front-end que estou estudando no momento a procura de um estágio ou vaga como júnior.
 🇺🇸 I'm a publicist, I was born in the interior of São Paulo, I lived in Florianópolis for 15 years and in 2020 I moved to São Paulo capital. I worked with different areas of digital marketing for 13 years and decided to pivot my career to Front-end, which I am currently studying looking for an internship.
 
 <div align="center">
