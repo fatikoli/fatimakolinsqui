@@ -1,9 +1,9 @@
 # fatimakolinsqui
 Hi! 🤝 I'm Fátima Kolinsqui 
 
-🇧🇷 Sou publicitária por formação, nasci no interior de São Paulo, morei 15 anos em Florianópolis e em 2020 me mudei para São Paulo capital. Trabalhei com diversas áreas do marketing digital por 13 anos e decidi pivotar minha carreira para Front-end que estou estudando e fazendo alguns jobs/freelancers de Front-end e estou em busca de uma oportunidade em Martech e ou Frontend Developer | Typescript |JavaScript | ReactJS | Python e qualquer outro framework ou linguagem que me der a oportunidade e um tempinho para aprender.
+🇧🇷 Sou publicitária por formação, nasci no interior de São Paulo, morei 15 anos em Florianópolis e em 2020 me mudei para São Paulo capital. Trabalhei com diversas áreas do marketing digital por 13 anos e decidi pivotar minha carreira para Front-end que estou estudando e fazendo jobs/freelancers e em busca de uma oportunidade em Martech e ou Frontend Developer | Typescript |JavaScript | ReactJS | Python e qualquer outro framework ou linguagem que me der a oportunidade e um tempinho para aprender.
 
-🇺🇸 I am an advertiser by training, I was born in the interior of São Paulo, I lived in Florianópolis for 15 years and in 2020 I moved to São Paulo, the capital. I worked in different areas of digital marketing for 13 years and decided to pivot my career to Front-end which I am studying and doing some Front-end jobs/freelance and I am looking for an opportunity in Martech and/or Frontend Developer | Typescript |JavaScript | ReactJS | Python and any other framework or language that gives me the opportunity and a little time to learn.
+🇺🇸 I am an advertiser by training, I was born in the interior of São Paulo, I lived in Florianópolis for 15 years and in 2020 I moved to São Paulo, the capital. I worked in different areas of digital marketing for 13 years and decided to pivot my career to Front-end where I am studying and doing freelance work and looking for an opportunity in Martech and/or Frontend Developer | Typescript |JavaScript | ReactJS | Python and any other framework or language that gives me the opportunity and a little time to learn.
 
 <div align="center">
   <a href="https://github.com/fatikoli">
